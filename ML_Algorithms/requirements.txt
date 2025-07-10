@@ -1,0 +1,14 @@
+feature-engine==1.8.3
+imbalanced-learn==0.13.0
+matplotlib==3.10.0
+ml-dtypes==0.4.1
+numpy==2.0.2
+pandas==2.2.3
+pillow==11.1.0
+psycopg2==2.9.10
+scikit-learn==1.6.1
+scipy==1.15.1
+seaborn==0.13.2
+tensorboard==2.18.0
+tensorflow==2.18.0
+xgboost==3.0.0
